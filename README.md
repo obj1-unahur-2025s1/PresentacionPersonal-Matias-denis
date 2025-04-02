@@ -10,4 +10,5 @@
 
 ### Otra Información
 - Este es mi primer contacto con github
+- Es mi segundo año en la carrera de Programación, previamente estudié Diseño Gráfico e Historia.
 
